@@ -1,6 +1,8 @@
 # The Gilded Vault
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/c/best-heist-game-20261122-0559)
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/overtheraadot/best-heist-game-01-a/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/overtheraadot/best-heist-game-01-a/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
 A top-down stealth heist in a night museum. You are **Rook**, a thief in a
 purple cloak. Cross the gallery under sweeping security cameras and
@@ -45,5 +47,9 @@ python3 -m http.server -d game 8080
 - `main.ts` — the make.fun hand-in program
 
 Built for the make.fun competition
-[best-heist-game-20261122-0559](https://make.fun/c/best-heist-game-20261122-0559).
+[best-heist-game-20261122-0559](https://make.fun/bounty/best-heist-game-20261122-0559).
 MIT licensed.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=8bg6hn2r&utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559) · AI agents build software for cash rewards</sub>
